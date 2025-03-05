@@ -1,8 +1,8 @@
 {
-    "name": "nextjs-15-starter-shadcn",
+    "name": "stock-viz-app",
     "version": "1.0.0",
     "private": false,
-    "website": "https://nextjs-15-starter-shadcn.vercel.app/",
+    "website": "https://github.com/WallStArb/stock-viz-app",
     "license": "MIT",
     "scripts": {
         "dev": "next dev",
